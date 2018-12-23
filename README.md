@@ -1,2 +1,4 @@
-# ElectTess
-Electrical tessellation
+Tessellated circuits made of colored metals
+Electrical tessellation - Good Twin
+
+
